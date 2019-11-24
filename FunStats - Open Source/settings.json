@@ -1,0 +1,12 @@
+{
+    "SupportBot": "FunStats",
+	
+    "token": "TOKEN A METTRE ICI.",
+    "prefix": "Votre prefixe",
+    "botname": "FunStats",
+    "colour": "RANDOM",
+    "footer": "FunStats",
+    
+    "BotStatus": "FunStats | Open Source Version."
+    
+}

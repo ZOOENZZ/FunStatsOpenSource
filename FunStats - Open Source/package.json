@@ -1,0 +1,18 @@
+{
+  "name": "funstats",
+  "version": "1.0.0",
+  "description": "FunStats open source version",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "discord.js": "^11.5.1",
+    "moment": "^2.24.0",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "-help"
+  },
+  "author": "zooen",
+  "license": "ISC"
+}
